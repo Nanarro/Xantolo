@@ -12,7 +12,7 @@ Este proyecto es una página web dedicada a la celebración del **Xantolo en Tem
 ---
 
 ## 🌐 Enlace a la Página
-🔗 [Ver el sitio en GitHub Pages](https://tuusuario.github.io/xantolo-tempoal/)
+🔗 [Ver el sitio en GitHub Pages](https://nanarro.github.io/Xantolo/)
 
 ---
 
